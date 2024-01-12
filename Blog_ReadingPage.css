@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+    color: #fff;  
+}
+.heading{
+    margin-left: 1em;
+
+}
+.heading:hover{
+    text-shadow:  5px 5px 10px rgb(218, 14, 184);;
+    background-size: 3px;
+}
+.post {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  .post img {
+    width: 100%;
+    height: auto;
+  }
+  
+.post p {
+    margin-top: 10px;
+  }
+#headlines{
+    padding: 20px;
+}
