@@ -1,0 +1,35 @@
+body{
+    background: black;
+}
+ .blog{
+    font-size: 30px;
+    color: #fff;
+    display: grid;
+    justify-items: center;
+    margin-top: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.blog:hover{
+    font-size: 30px;
+    text-shadow: 5px 5px 10px rgb(218, 14, 184);
+}
+.post-container {
+    margin: 30px;
+      max-width: 600px;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      text-align: center;
+    }
+.post-textarea {
+      width: 80%;
+      height: 100px;
+      padding: 10px;
+      margin-bottom: 10px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      resize: none;
+      box-sizing: border-box;
+      margin: 0 auto;
+    }
